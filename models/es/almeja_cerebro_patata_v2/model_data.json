@@ -1,0 +1,1 @@
+{"zmuv_mean": -0.000147411716170609, "zmuv_std": 0.082072414457798, "window_size": 750, "hop_length": 200, "num_mels": 40, "num_fft": 512, "sample_rate": 16000, "train_epochs": 30, "original_path": "dataset/model_trained.pt", "final_validation_loss": 0.14374221861362457}
